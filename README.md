@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **- 🔭 Currently crafting beautiful cross-platform experiences with **Flutter** - 🌱 Mastering **Clean Architecture** & **State Management** patterns - 👨💻 2+ years of experience in mobile app development - 🎨 Passionate about UI/UX design and smooth animations**
+- 💬 Ask me about **- 🔭 Currently crafting beautiful cross-platform experiences with **Flutter** - 🌱 Mastering **Clean Architecture** & **State Management** patterns - 👨💻 1+ years of experience in mobile app development - 🎨 Passionate about UI/UX design and smooth animations**
 
 - 📫 How to reach me **akashmaroli2000@gmail.com**
 
